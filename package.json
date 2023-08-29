@@ -16,6 +16,7 @@
   "dependencies": {
     "@tensorflow/tfjs": "^4.10.0",
     "@tensorflow/tfjs-node": "^4.10.0",
+    "cli-progress": "^3.12.0",
     "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2"
   }

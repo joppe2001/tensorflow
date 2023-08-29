@@ -6,6 +6,11 @@ export const getAnime = async (id) => {
   return data;
 };
 
+export const getAnimeFull = async (id) => {
+  const response = await fetch(`${baseUrl}anime/${id}/full`);
+  const data = await response.json();
+  return data;
+};
 
 export const getAnimeCharacters = async (id) => {
   const response = await fetch(`${baseUrl}anime/${id}/characters`);
