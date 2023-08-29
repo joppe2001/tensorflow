@@ -6,6 +6,7 @@ if (process.server) {
   // Import the browser version or any other behavior you need on the client
   tf = require('@tensorflow/tfjs');
 }
+//make sure this works on server side
 export const trainModel = async () => {
   console.log('Train model started');
   // Fetch JSON data from server
@@ -53,6 +54,8 @@ export const trainModel = async () => {
   // Save the model to local storage
   if (process.client) {
     await model.save('localstorage://anime-recommender');
+  } else if (process.server) {
+    await model.save('file://./public/anime-recommender');
   }
 
   const predictions = model.predict(xTrain);
