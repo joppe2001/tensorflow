@@ -11,7 +11,7 @@
 
 <script setup>
 import { onMounted, watch, ref } from 'vue';
-import { trainModel, getRecommendation } from '../services/tensorflowOps';
+import { trainModel, getRecommendation } from './services/tensorFlowOps.js'
 
 const anime = ref('');
 const recommended = ref('');
