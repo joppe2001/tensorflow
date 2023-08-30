@@ -21056,6 +21056,14 @@
 		"episodeCount": 0
 	},
 	{
+		"title": "Shigatsu wa Kimi no Uso",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 2,
+		"episodeCount": 22
+	},
+	{
 		"title": "Akadou Suzunosuke",
 		"hotEncodedGenres": [
 			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
@@ -21088,7 +21096,7 @@
 		"episodeCount": 0
 	},
 	{
-		"title": "Kimi no Na wa.",
+		"title": "Kimi no Na wa",
 		"hotEncodedGenres": [
 			0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
 		],

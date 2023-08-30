@@ -52,6 +52,7 @@ export const trainModel = async (animeData) => {
 	} else if (process.server) {
 		await model.save("file://./public/anime-recommender");
 	}
+	
 };
 
 export const getRecommendation = async (animeData, animeName) => {

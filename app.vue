@@ -32,22 +32,6 @@ watch(anime, (newAnime) => {
   anime.value = capitalizedWords.join(" ");
 }, { immediate: true });
 
-// onMounted(async () => {
-//   console.log("Component Mounted");
-//   try {
-//     // Load anime data
-//     const response = await fetch('/animeWithGenres.json');
-//     const animeData = await response.json();
-
-//     // Train the model
-//     await trainModel(animeData);
-//     console.log("Model trained");
-//     loading.value = false;
-//   } catch (error) {
-//     console.error("Training failed", error);
-//   }
-// });
-
 const getRecommended = async () => {
   if (loading.value) {
     console.log("Model still training, cannot get recommendations yet.");
