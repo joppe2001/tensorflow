@@ -55,15 +55,7 @@ export const trainModel = async (animeData) => {
 };
 
 export const getRecommendation = async (animeData, animeName) => {
-	if (process.client) {
-		var loadedModel = await tf.loadLayersModel(
-			"/anime-recommender/model.json"
-		);
-	} else if (process.server) {
-		var loadedModel = await tf.loadLayersModel(
-			"/anime-recommender/model.json"
-		);
-	}
+	const loadedModel = await tf.loadLayersModel("/anime-recommender/model.json");
 
 	const chosenAnime = animeData.find((anime) => anime.title === animeName);
 	if (!chosenAnime) {
