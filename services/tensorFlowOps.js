@@ -57,7 +57,7 @@ export const trainModel = async (animeData) => {
 export const getRecommendation = async (animeData, animeName) => {
 	if (process.client) {
 		var loadedModel = await tf.loadLayersModel(
-			"localstorage://anime-recommender"
+			"file://./public/anime-recommender/model.json"
 		);
 	} else if (process.server) {
 		var loadedModel = await tf.loadLayersModel(
