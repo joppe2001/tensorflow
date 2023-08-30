@@ -18,7 +18,7 @@ const anime = ref('');
 const recommended = ref('');
 const loading = ref(false);
 
-const ignoreWords = ["of", "the", "and", "in", "on", "at", "or", "by", "na"];
+const ignoreWords = ["of", "the", "and", "in", "on", "at", "or", "by", "no", "wa"];
 
 watch(anime, (newAnime) => {
   const words = newAnime.split(" ");
