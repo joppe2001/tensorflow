@@ -44,7 +44,7 @@
 			if (process.client) {
 				response = await fetch("localstorage://anime-recommender");
 			} else if (process.server) {
-				response = await fetch("/animeWithGenres.json");
+				response = await fetch("file://./public/anime-recommender");
 			}
 			const animeData = await response.json();
 
