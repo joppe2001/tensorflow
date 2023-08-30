@@ -6,11 +6,11 @@ export const trainModel = async (animeData) => {
 
 	const normalizedData = animeData.map((d) => ({
 		...d,
-		ageRating: d.ageRating / 10.0
+		ageRating: d.ageRating / 10.0,
 	}));
-	
-	const features = normalizedData.map((d) =>
-		tf.tensor([...d.hotEncodedGenres, d.ageRating])  // Adding new features
+
+	const features = normalizedData.map(
+		(d) => tf.tensor([...d.hotEncodedGenres, d.ageRating]) // Adding new features
 	);
 
 	const model = tf.sequential();
@@ -55,7 +55,11 @@ export const trainModel = async (animeData) => {
 };
 
 export const getRecommendation = async (animeData, animeName) => {
-	const loadedModel = await tf.loadLayersModel("localstorage://anime-recommender");
+	const loadedModel = await tf.loadLayersModel(
+		process.client
+			? "localstorage://anime-recommender"
+			: "file://./public/anime-recommender"
+	);
 
 	const chosenAnime = animeData.find((anime) => anime.title === animeName);
 	if (!chosenAnime) {
@@ -65,7 +69,7 @@ export const getRecommendation = async (animeData, animeName) => {
 
 	const chosenFeatures = tf.tensor([
 		...chosenAnime.hotEncodedGenres,
-		chosenAnime.ageRating / 10.0
+		chosenAnime.ageRating / 10.0,
 	]);
 
 	const prediction = loadedModel.predict(chosenFeatures.reshape([1, -1]));

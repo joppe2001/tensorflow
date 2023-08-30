@@ -28,6 +28,34 @@
     "episodeCount": 26
   },
   {
+    "title": "Attack on titan",
+    "hotEncodedGenres": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "ageRating": 4,
+    "episodeCount": 25
+  },
+  {
     "title": "Witch Hunter Robin",
     "hotEncodedGenres": [
       1,
