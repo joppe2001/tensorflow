@@ -30,20 +30,20 @@ watch(anime, (newAnime) => {
   anime.value = capitalizedWords.join(" ");
 }, { immediate: true });
 
-onMounted(async () => {
-  console.log("Component Mounted");
-  try {
-    // Load anime data
-    const response = await fetch('/animeWithGenres.json');
-    const animeData = await response.json();
+// onMounted(async () => {
+//   console.log("Component Mounted");
+//   try {
+//     // Load anime data
+//     const response = await fetch('/animeWithGenres.json');
+//     const animeData = await response.json();
 
-    // Train the model
-    await trainModel(animeData);
-    console.log("Model trained");
-  } catch (error) {
-    console.error("Training failed", error);
-  }
-});
+//     // Train the model
+//     await trainModel(animeData);
+//     console.log("Model trained");
+//   } catch (error) {
+//     console.error("Training failed", error);
+//   }
+// });
 
 const getRecommended = async () => {
   try {
