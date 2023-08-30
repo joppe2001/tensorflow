@@ -21088,12 +21088,11 @@
 		"episodeCount": 0
 	},
 	{
-		"title": "Kimi no Nawa",
+		"title": "Kimi no Na wa.",
 		"hotEncodedGenres": [
-			0 , 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0 , 0, 0
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
 		],
-		"ageRating": 3,
-		"episodeCount": 1
+		"ageRating": 2
 	},
 	{
 		"title": "Tantei Opera Milky Holmes Dai 2 Maku",
