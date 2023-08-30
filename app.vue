@@ -10,14 +10,28 @@
 </template>
 
 <script setup>
-import { onMounted } from 'vue';
+import { onMounted, watch, ref } from 'vue';
 import { trainModel, getRecommendation } from '../services/tensorflowOps';
 
 const anime = ref('');
 const recommended = ref('');
 
+const ignoreWords = ["of", "the", "and", "in", "on", "at", "or", "by"];
+
+watch(anime, (newAnime) => {
+  const words = newAnime.split(" ");
+  const capitalizedWords = words.map((word, index) => {
+    if (index === 0 || !ignoreWords.includes(word.toLowerCase())) {
+      return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+    } else {
+      return word.toLowerCase();
+    }
+  });
+  anime.value = capitalizedWords.join(" ");
+}, { immediate: true });
+
 onMounted(async () => {
-  console.log("Component Mounted"); 
+  console.log("Component Mounted");
   try {
     // Load anime data
     const response = await fetch('/animeWithGenres.json');
@@ -44,7 +58,5 @@ const getRecommended = async () => {
   } catch (error) {
     console.error("Training failed", error);
   }
-}
-
-
+};
 </script>

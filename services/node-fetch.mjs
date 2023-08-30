@@ -17,8 +17,7 @@ const hotEncodeAnime = (anime, uniqueGenres, ageRatingMapping) => {
     return {
       title: a.title,
       hotEncodedGenres: hotArray,
-      ageRating: numericalAgeRating,
-      episodeCount: a.episodeCount,
+      ageRating: numericalAgeRating
     };
   });
 };
@@ -43,13 +42,11 @@ const getAnime = async (startId, endId) => {
         const data = await response.json();
         const fulldata = await fullData.json();
         if (data.data && data.data.title && data.data.genres && data.data.rating) {
-          const episodeCount = fulldata.data && fulldata.data.episodes ? fulldata.data.episodes : 0;
         
           const animeData = {
             title: data.data.title,
             genres: data.data.genres,
-            ageRating: data.data.rating,
-            episodeCount,  // Using the episodeCount variable
+            ageRating: data.data.rating
           };
           anime.push(animeData);
           allGenres.push(...animeData.genres);
@@ -98,9 +95,10 @@ const getAnime = async (startId, endId) => {
   };
 
   const animeWithHotEncodedGenres = hotEncodeAnime(anime, uniqueGenres, ageRatingMapping);
-  writeFileSync('animeWithGenres.json', JSON.stringify(animeWithHotEncodedGenres, null, 2));
+  // writeFileSync('../public/animeWithGenres.json', JSON.stringify(animeWithHotEncodedGenres, null, 2));
+
 
   console.log('Anime, their hot-encoded genres, and age ratings have been written to animeWithGenres.json');
 };
 
-getAnime(1, 70);
+getAnime(19, 20);
