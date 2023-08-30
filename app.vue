@@ -38,21 +38,22 @@
 
 	onMounted(async () => {
 		console.log("Component Mounted");
-		if (process.client) {
-			return;
-		} else if (process.server) {
-			try {
-				// Load anime data
-				const response = await fetch("/animeWithGenres.json");
-				const animeData = await response.json();
-
-				// Train the model
-				await trainModel(animeData);
-				console.log("Model trained");
-				loading.value = false;
-			} catch (error) {
-				console.error("Training failed", error);
+		try {
+			let response;
+			// Load anime data
+			if (process.client) {
+				response = await fetch("localstorage://anime-recommender");
+			} else if (process.server) {
+				response = await fetch("/animeWithGenres.json");
 			}
+			const animeData = await response.json();
+
+			// Train the model
+			await trainModel(animeData);
+			console.log("Model trained");
+			loading.value = false;
+		} catch (error) {
+			console.error("Training failed", error);
 		}
 	});
 
