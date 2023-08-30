@@ -4,7 +4,7 @@
       <label for="anime">Anime</label>
       <input type="text" id="anime" name="anime" v-model="anime" />
       <button type="submit">Get Recommendation</button>
-      <p v-if="recommended">Recommended: {{ recommended }}</p>
+      <p v-if="recommended && !loading">Recommended: {{ recommended }}</p>
     </form>
   </NuxtLayout>
 </template>
@@ -15,6 +15,7 @@ import { trainModel, getRecommendation } from './services/tensorFlowOps.js'
 
 const anime = ref('');
 const recommended = ref('');
+const loading = ref(true);
 
 const ignoreWords = ["of", "the", "and", "in", "on", "at", "or", "by"];
 
@@ -30,20 +31,20 @@ watch(anime, (newAnime) => {
   anime.value = capitalizedWords.join(" ");
 }, { immediate: true });
 
-// onMounted(async () => {
-//   console.log("Component Mounted");
-//   try {
-//     // Load anime data
-//     const response = await fetch('/animeWithGenres.json');
-//     const animeData = await response.json();
+onMounted(async () => {
+  console.log("Component Mounted");
+  try {
+    // Load anime data
+    const response = await fetch('/animeWithGenres.json');
+    const animeData = await response.json();
 
-//     // Train the model
-//     await trainModel(animeData);
-//     console.log("Model trained");
-//   } catch (error) {
-//     console.error("Training failed", error);
-//   }
-// });
+    // Train the model
+    await trainModel(animeData);
+    console.log("Model trained");
+    loading.value = false  } catch (error) {
+    console.error("Training failed", error);
+  }
+});
 
 const getRecommended = async () => {
   try {
