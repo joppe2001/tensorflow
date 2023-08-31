@@ -134,4 +134,4 @@ const getAnime = async (startId, endId) => {
   );
 };
 
-getAnime(20000, 35000);
+getAnime(46569, 47569);
