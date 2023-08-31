@@ -37,7 +37,7 @@ export const trainModel = async (animeData) => {
 
 	const history = await model.fit(xTrain, yTrain, {
 		epochs: 800,
-		batchSize: 1500,
+		batchSize: 1500
 	});
 
 	console.log("Training complete");
@@ -52,7 +52,6 @@ export const trainModel = async (animeData) => {
 	} else if (process.server) {
 		await model.save("file://./public/anime-recommender");
 	}
-	
 };
 
 export const getRecommendation = async (animeData, animeName) => {

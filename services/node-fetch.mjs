@@ -1,8 +1,8 @@
-import fetch from "node-fetch";
-import { readFileSync, writeFileSync } from "fs";
-import cliProgress from "cli-progress";
+import fetch from 'node-fetch';
+import { readFileSync, writeFileSync } from 'fs';
+import cliProgress from 'cli-progress';
 
-const baseUrl = "https://api.jikan.moe/v4/";
+const baseUrl = 'https://api.jikan.moe/v4/';
 
 const hotEncodeAnime = (anime, uniqueGenres, ageRatingMapping) => {
   return anime.map((a) => {
@@ -19,7 +19,7 @@ const hotEncodeAnime = (anime, uniqueGenres, ageRatingMapping) => {
     return {
       title: a.title,
       hotEncodedGenres: hotArray,
-      ageRating: numericalAgeRating,
+      ageRating: numericalAgeRating
     };
   });
 };
@@ -32,9 +32,10 @@ const unhotEncodeAnime = (hotEncodedAnime, uniqueGenres, ageRatingMapping) => {
         genres.push(uniqueGenres[index]);
       }
     });
-    const ageRating = Object.keys(ageRatingMapping).find(
-      (key) => ageRatingMapping[key] === a.ageRating
-    ) || 'Unknown';
+    const ageRating =
+      Object.keys(ageRatingMapping).find(
+        (key) => ageRatingMapping[key] === a.ageRating
+      ) || 'Unknown';
     return {
       title: a.title,
       genres,
@@ -48,12 +49,12 @@ const getAnime = async (startId, endId) => {
   let allGenres = [];
   let uniqueGenres = [];
   const ageRatingMapping = {
-    "G - All Ages": 0,
-    "PG - Children": 1,
-    "PG-13 - Teens 13 or older": 2,
-    "R - 17+ (violence & profanity)": 3,
-    "R+ - Mild Nudity": 4,
-    "Rx - Hentai": 5,
+    'G - All Ages': 0,
+    'PG - Children': 1,
+    'PG-13 - Teens 13 or older': 2,
+    'R - 17+ (violence & profanity)': 3,
+    'R+ - Mild Nudity': 4,
+    'Rx - Hentai': 5
   };
 
   const progressBar = new cliProgress.SingleBar(
@@ -67,11 +68,19 @@ const getAnime = async (startId, endId) => {
       const response = await fetch(`${baseUrl}anime/${i}`);
       if (response.status === 200) {
         const data = await response.json();
-        if (data.data && data.data.title && data.data.genres && data.data.rating) {
+        if (
+          data.data &&
+          data.data.title &&
+          data.data.genres &&
+          data.data.rating &&
+          (data.data.type === 'TV' ||
+            data.data.type === 'Movie' ||
+            data.data.type === 'OVA')
+        ) {
           const animeData = {
             title: data.data.title,
             genres: data.data.genres,
-            ageRating: data.data.rating,
+            ageRating: data.data.rating
           };
           anime.push(animeData);
           allGenres.push(...animeData.genres);
@@ -84,9 +93,13 @@ const getAnime = async (startId, endId) => {
             ) === index
         );
 
-        const hotEncodedAnime = hotEncodeAnime(anime, uniqueGenres, ageRatingMapping);
+        const hotEncodedAnime = hotEncodeAnime(
+          anime,
+          uniqueGenres,
+          ageRatingMapping
+        );
         writeFileSync(
-          "partial_hotencoded_anime.json",
+          'partial_hotencoded_anime.json',
           JSON.stringify(hotEncodedAnime, null, 2)
         );
       }
@@ -102,19 +115,23 @@ const getAnime = async (startId, endId) => {
 
   const hotEncodedAnime = hotEncodeAnime(anime, uniqueGenres, ageRatingMapping);
   writeFileSync(
-    "./animeWithGenres.json",
+    '../public/animeWithGenres[20k-38k].json',
     JSON.stringify(hotEncodedAnime, null, 2)
   );
 
-  const unhotEncodedAnime = unhotEncodeAnime(hotEncodedAnime, uniqueGenres, ageRatingMapping);
+  const unhotEncodedAnime = unhotEncodeAnime(
+    hotEncodedAnime,
+    uniqueGenres,
+    ageRatingMapping
+  );
   writeFileSync(
-    "../public/animeWithUnhotEncodedGenres.json",
+    '../public/animeWithUnhotEncodedGenres.json',
     JSON.stringify(unhotEncodedAnime, null, 2)
   );
 
   console.log(
-    "Anime, their hot-encoded genres, and age ratings have been written to animeWithGenres.json"
+    'Anime, their hot-encoded genres, and age ratings have been written to animeWithGenres.json'
   );
 };
 
-getAnime(22673, 23273);
+getAnime(20000, 35000);
