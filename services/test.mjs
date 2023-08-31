@@ -1,11 +1,10 @@
-import * as tf from "@tensorflow/tfjs";
-import { findSimilarAnimes } from "#imports";
+import * as tf from "@tensorflow/tfjs-node";
 
-export const trainModel = async (animeData) => {
+const trainModel = async (animeData) => {
 	console.log("Train model started");
 
 	const features = animeData.map(
-		(d) => tf.tensor([...d.hotEncodedGenres, d.ageRating])
+		(d) => tf.tensor([...d.hotEncodedGenres, d.ageRating, d.score])
 	);
 
 	const model = tf.sequential();
@@ -43,35 +42,11 @@ export const trainModel = async (animeData) => {
 	);
 
 	if (process.client) {
-		await model.save("localstorage://anime-recommender");
+		await model.save('file://./public/anime-recommender');
 		console.log("Model saved to local storage.");
 	} else if (process.server) {
 		await model.save("file://./public/anime-recommender");
 		console.log("Model saved to ./public/anime-recommender.");
 	}
 
-};
-
-export const getRecommendation = async (animeData, animeName) => {
-	const loadedModel = await tf.loadLayersModel("/anime-recommender/model.json");
-console.log("Model loaded. Input shape expected:", loadedModel.inputs[0].shape);
-
-
-	const chosenAnime = animeData.find((anime) => anime.title === animeName);
-	if (!chosenAnime) {
-		console.error(`Anime "${animeName}" not found in data.`);
-		return [];
-	}
-
-	const chosenFeatures = tf.tensor([
-		...chosenAnime.hotEncodedGenres,
-		chosenAnime.ageRating
-	]);
-
-	const prediction = loadedModel.predict(chosenFeatures.reshape([1, -1]));
-	const predictionArray = await prediction.array();
-	const similarAnimes = findSimilarAnimes(predictionArray[0], animeData);
-
-	console.log("Recommended Animes:", similarAnimes);
-	return similarAnimes;
 };
