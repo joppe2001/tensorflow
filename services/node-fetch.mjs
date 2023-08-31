@@ -1,137 +1,81 @@
 import fetch from 'node-fetch';
-import { readFileSync, writeFileSync } from 'fs';
+import { writeFileSync } from 'fs';
 import cliProgress from 'cli-progress';
 
-const baseUrl = 'https://api.jikan.moe/v4/';
+const ageRatingMapping = {
+  'G - All Ages': 0,
+  'PG - Children': 0.2,
+  'PG-13 - Teens 13 or older': 0.4,
+  'R - 17+ (violence & profanity)': 0.6,
+  'R+ - Mild Nudity': 0.8,
+  'Rx - Hentai': 1
+};
 
-const hotEncodeAnime = (anime, uniqueGenres, ageRatingMapping) => {
+let uniqueGenres = [];
+
+const hotEncodeAnime = (anime) => {
   return anime.map((a) => {
-    let hotArray = new Array(uniqueGenres.length).fill(0);
+    const hotArray = Array(uniqueGenres.length).fill(0);
     a.genres.forEach((genre) => {
-      const genreIndex = uniqueGenres.findIndex(
-        (ug) => ug.mal_id === genre.mal_id
-      );
-      if (genreIndex !== -1) {
-        hotArray[genreIndex] = 1;
-      }
+      const genreIndex = uniqueGenres.findIndex((ug) => ug === genre.mal_id);
+      if (genreIndex !== -1) hotArray[genreIndex] = 1;
     });
-    const numericalAgeRating = ageRatingMapping[a.ageRating] || -1;
     return {
       title: a.title,
       hotEncodedGenres: hotArray,
-      ageRating: numericalAgeRating
-    };
-  });
-};
-
-const unhotEncodeAnime = (hotEncodedAnime, uniqueGenres, ageRatingMapping) => {
-  return hotEncodedAnime.map((a) => {
-    let genres = [];
-    a.hotEncodedGenres.forEach((value, index) => {
-      if (value === 1) {
-        genres.push(uniqueGenres[index]);
-      }
-    });
-    const ageRating =
-      Object.keys(ageRatingMapping).find(
-        (key) => ageRatingMapping[key] === a.ageRating
-      ) || 'Unknown';
-    return {
-      title: a.title,
-      genres,
-      ageRating
+      ageRating: ageRatingMapping[a.ageRating] || 0.5, // Default to average if undefined
+      score: Math.floor(a.score)
     };
   });
 };
 
 const getAnime = async (startId, endId) => {
   let anime = [];
-  let allGenres = [];
-  let uniqueGenres = [];
-  const ageRatingMapping = {
-    'G - All Ages': 0,
-    'PG - Children': 1,
-    'PG-13 - Teens 13 or older': 2,
-    'R - 17+ (violence & profanity)': 3,
-    'R+ - Mild Nudity': 4,
-    'Rx - Hentai': 5
-  };
+  
+  // Read existing data if it exists
+  try {
+    const existingData = JSON.parse(fs.readFileSync('./hotEncodedAnime.json', 'utf8'));
+    anime = existingData;
+  } catch (error) {
+    console.log('No existing data found, starting fresh.');
+  }
 
-  const progressBar = new cliProgress.SingleBar(
-    {},
-    cliProgress.Presets.shades_classic
-  );
+  const progressBar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
   progressBar.start(endId - startId + 1, 0);
 
   for (let i = startId; i <= endId; i++) {
     try {
-      const response = await fetch(`${baseUrl}anime/${i}`);
+      const response = await fetch(`https://api.jikan.moe/v4/anime/${i}`);
       if (response.status === 200) {
         const data = await response.json();
-        if (
-          data.data &&
-          data.data.title &&
-          data.data.genres &&
-          data.data.rating &&
-          (data.data.type === 'TV' ||
-            data.data.type === 'Movie' ||
-            data.data.type === 'OVA')
-        ) {
-          const animeData = {
+        if (data.data && data.data.title && data.data.genres && data.data.rating && (data.data.type !== 'manga') && (data.data.aired.prop.from.year >= 2000 && !undefined && !null)) {
+          anime.push({
             title: data.data.title,
             genres: data.data.genres,
-            ageRating: data.data.rating
-          };
-          anime.push(animeData);
-          allGenres.push(...animeData.genres);
+            ageRating: data.data.rating,
+            score: data.data.score
+          });
+
+          data.data.genres.forEach((genre) => {
+            if (!uniqueGenres.includes(genre.mal_id)) {
+              uniqueGenres.push(genre.mal_id);
+            }
+          });
+          
+          // Save after every anime
+          const hotEncodedAnime = hotEncodeAnime(anime);
+          writeFileSync('./hotEncodedAnime.json', JSON.stringify(hotEncodedAnime, null, 2));
         }
-
-        uniqueGenres = allGenres.filter(
-          (value, index, self) =>
-            self.findIndex(
-              (t) => JSON.stringify(t) === JSON.stringify(value)
-            ) === index
-        );
-
-        const hotEncodedAnime = hotEncodeAnime(
-          anime,
-          uniqueGenres,
-          ageRatingMapping
-        );
-        writeFileSync(
-          'partial_hotencoded_anime.json',
-          JSON.stringify(hotEncodedAnime, null, 2)
-        );
       }
-
-      await new Promise((resolve) => setTimeout(resolve, 1000));
       progressBar.increment();
+      await new Promise((resolve) => setTimeout(resolve, 1000)); // Rate-limiting
     } catch (error) {
-      console.error(`Failed to fetch data for anime ID ${i}: ${error}`);
+      console.error(`Failed at ID ${i}: ${error}`);
     }
   }
 
   progressBar.stop();
-
-  const hotEncodedAnime = hotEncodeAnime(anime, uniqueGenres, ageRatingMapping);
-  writeFileSync(
-    '../public/animeWithGenres[20k-38k].json',
-    JSON.stringify(hotEncodedAnime, null, 2)
-  );
-
-  const unhotEncodedAnime = unhotEncodeAnime(
-    hotEncodedAnime,
-    uniqueGenres,
-    ageRatingMapping
-  );
-  writeFileSync(
-    '../public/animeWithUnhotEncodedGenres.json',
-    JSON.stringify(unhotEncodedAnime, null, 2)
-  );
-
-  console.log(
-    'Anime, their hot-encoded genres, and age ratings have been written to animeWithGenres.json'
-  );
+  console.log('Data processing complete. Check out your hotEncodedAnime.json!');
 };
 
-getAnime(46569, 47569);
+getAnime(1, 40000);  // Change the range as per your requirement

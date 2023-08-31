@@ -1,0 +1,5906 @@
+[
+	{
+		"title": "Cowboy Bebop: Tengoku no Tobira",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "Witch Hunter Robin",
+		"hotEncodedGenres": [
+			1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Bouken Ou Beet",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Eyeshield 21",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Hachimitsu to Clover",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Hungry Heart: Wild Striker",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Initial D Fourth Stage",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Monster",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 8
+	},
+	{
+		"title": "Naruto",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tennis no Oujisama",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ring ni Kakero 1",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "School Rumble",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Sunabouzu",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Texhnolyze",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Trinity Blood",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Yakitate!! Japan",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Zipang",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": ".hack//Sign",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Aa! Megami-sama! (TV)",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tenshi Kinryouku",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Kidou Tenshi Angelic Layer",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ai Yori Aoshi",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Appleseed (Movie)",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Avenger",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 5
+	},
+	{
+		"title": "Beck",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "Chobits",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Chrno Crusade",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "D.N.Angel",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "D.C.: Da Capo",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "DearS",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Rozen Maiden",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Rozen Maiden: Träumend",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Azumanga Daiou The Animation",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Basilisk: Kouga Ninpou Chou",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Black Cat (TV)",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Cluster Edge",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Full Metal Panic!",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Full Metal Panic? Fumoffu",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Full Metal Panic! The Second Raid",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Gakuen Alice",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Soukyuu no Fafner: Dead Aggressor",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Mahou Shoujo Lyrical Nanoha",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Mahou Shoujo Lyrical Nanoha A's",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Shuffle!",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Kidou Senshi Gundam SEED",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Kidou Senshi Gundam SEED Destiny",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Last Exile",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Mai-HiME",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Mai-Otome",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Shin Shirayuki-hime Densetsu Prétear",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Air",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Aishiteruze Baby★★",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ayashi no Ceres",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Boys Be...",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Ou Dorobou Jing",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ou Dorobou Jing in Seventh Heaven",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Bakuretsu Tenshi",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Chou Henshin Cosprayers",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 4
+	},
+	{
+		"title": "Uchuu no Stellvia",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Sakigake!! Cromartie Koukou",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Final Approach",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Fruits Basket",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Fullmetal Alchemist",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "Full Moon wo Sagashite",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Fushigi Yuugi: Eikouden",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Futakoi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Futakoi Alternative",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Gate Keepers",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Gate Keepers 21",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Gensoumaden Saiyuuki",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Saiyuuki Reload",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Saiyuuki Reload Gunlock",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "GetBackers",
+		"hotEncodedGenres": [
+			1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Green Green",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Gunslinger Girl",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Hikaru no Go",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Hunter x Hunter: Original Video Animation",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Hunter x Hunter: Greed Island",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Hunter x Hunter: Greed Island Final",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Jinki:Extend",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Kannazuki no Miko",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kanon",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Kono Minikuku mo Utsukushii Sekai",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Kimi ga Nozomu Eien",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Kita e.: Diamond Dust Drops",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Loveless",
+		"hotEncodedGenres": [
+			1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Blood+",
+		"hotEncodedGenres": [
+			1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Re: Cutey Honey",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Solty Rei",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Juuni Kokuki",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Shaman King",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "X",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Mahou Sensei Negima!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Maria-sama ga Miteru",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Boukyaku no Senritsu",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Peace Maker Kurogane",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Pita Ten",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "RahXephon",
+		"hotEncodedGenres": [
+			1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Samurai 7",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Scrapped Princess",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "s.CRY.ed",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Shingetsutan Tsukihime",
+		"hotEncodedGenres": [
+			1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Strange Dawn",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Tactics",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tenjou Tenge",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Tokyo Underground",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Triangle Heart: Sweet Songs Forever",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Tsubasa Chronicle",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ultra Maniac",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Ultra Maniac OVA",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Vandread",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Vandread: The Second Stage",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Whistle!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Xenosaga The Animation",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Initial D Third Stage",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Love Hina",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Love Hina Again",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Love Hina Christmas Special: Silent Eve",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Maburaho",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Macross Zero",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Onegai☆Teacher",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Onegai☆Twins",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Rizelmine",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Speed Grapher",
+		"hotEncodedGenres": [
+			1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Sen to Chihiro no Kamikakushi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 8
+	},
+	{
+		"title": "Tenshi na Konamaiki",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Wolf's Rain",
+		"hotEncodedGenres": [
+			1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Yumeria",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Samurai Champloo",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "R.O.D: Read or Die",
+		"hotEncodedGenres": [
+			1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "R.O.D: The TV",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Pure Mail",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Mezzo Forte",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Mezzo DSA",
+		"hotEncodedGenres": [
+			1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Elfen Lied",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "FLCL",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Jigoku Shoujo",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Ninin ga Shinobuden",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Air Master",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Asagiri no Miko",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Daa! Daa! Daa!",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Dan Doh!!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "E's Otherwise",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Koukyoushihen Eureka Seven",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Gankutsuou",
+		"hotEncodedGenres": [
+			0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "Genshiken",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Girls Bravo: First Season",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Gokusen",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Gravitation",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Agatha Christie no Meitantei Poirot to Marple",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Groove Adventure Rave",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Harukanaru Toki no Naka de: Hachiyou Shou",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ichigo 100%",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "InuYasha",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Konjiki no Gash Bell!!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kyou kara Maou!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Madlax",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Jungle wa Itsumo Hare nochi Guu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Jungle wa Itsumo Hare nochi Guu Deluxe",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Jungle wa Itsumo Hare nochi Guu Final",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Hoshi no Koe",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ikkitousen",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Hitsuji no Uta",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Happy☆Lesson",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Happy☆Lesson (TV)",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Happy☆Lesson Advance",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Happy☆Lesson The Final",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Hajime no Ippo",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Hajime no Ippo: Champion Road",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Hajime no Ippo: Mashiba vs. Kimura",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Gunparade March: Arata Naru Kougunka",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Gungrave",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Bleach",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Hellsing",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Gad Guard",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Noir",
+		"hotEncodedGenres": [
+			1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Mahoutsukai ni Taisetsu na Koto",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kiddy Grade",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Love♥Love?",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Mahoromatic: Automatic Maiden",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Mahoromatic: Motto Utsukushii Mono",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Viewtiful Joe",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Animal Yokochou",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Akane Maniax",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Angel Heart",
+		"hotEncodedGenres": [
+			1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Area 88 (TV)",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Argento Soma",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Grappler Baki (TV)",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Bakuten Shoot Beyblade",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Comic Party",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "D.C.S.S: Da Capo Second Season",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Dear Boys",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Divergence Eve",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Divergence Eve 2: Misaki Chronicles",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Dragon Drive",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Grenadier: Hohoemi no Senshi",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": ".hack//Tasogare no Udewa Densetsu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": ".hack//Liminality",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Cinderella Boy",
+		"hotEncodedGenres": [
+			1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Aa! Megami-sama! Movie",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Abenobashi Mahou☆Shoutengai",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Zettai Shounen",
+		"hotEncodedGenres": [
+			0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Akahori Gedou Hour Rabuge",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Final Fantasy VII: Advent Children",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Hand Maid May",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Happy World!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Najica Dengeki Sakusen",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Paradise Kiss",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Mousou Dairinin",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Peach Girl",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Puchi Pri*Yucie",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Piano (TV)",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 5
+	},
+	{
+		"title": "Planetes",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Midori no Hibi",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Dokidoki♡Densetsu: Mahoujin Guruguru",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Matantei Loki Ragnarok",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ginyuu Mokushiroku Meine Liebe",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Psychic Academy",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Mutsu Enmei Ryuu Gaiden: Shura no Toki",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Spiral: Suiri no Kizuna",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Starship Operators",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tsukuyomi: Moon Phase",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Futatsu no Spica",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Eikoku Koi Monogatari Emma",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "W: Wish",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Binzume Yousei",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Magical Canan",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Ojamajo Doremi Sharp",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Motto! Ojamajo Doremi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Ojamajo Doremi Dokkaan!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "UG☆Ultimate Girls",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Shakugan no Shana",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Fate/stay night",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Bokusatsu Tenshi Dokuro-chan",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Iriya no Sora, UFO no Natsu",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "I'll/CKBC",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Memories Off",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Memories Off 2nd",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Memories Off 3.5",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Gallery Fake",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Bible Black",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Boogiepop wa Warawanai",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Cardcaptor Sakura Movie 2: Fuuin Sareta Card",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 8
+	},
+	{
+		"title": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "eX-Driver",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "eX-Driver the Movie",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Futari Ecchi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Galaxy Angel",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Gantz",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Gilgamesh",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Haibane Renmei",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Capeta",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Karas",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Suzuka",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tales of Phantasia The Animation",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Escaflowne",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ai Yori Aoshi: Enishi",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Gantz 2nd Stage",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Seikai no Senki",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Seikai no Senki II",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Seikai no Senki III",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Seikai no Senki Special",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Otogi Juushi Akazukin OVA",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Hanaukyou Maid-tai",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Blood: The Last Vampire",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Buzzer Beater",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Tantei Gakuen Q",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Final Fantasy VII: Last Order",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Gun x Sword",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kore ga Watashi no Goshujinsama",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Hametsu no Mars",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 2
+	},
+	{
+		"title": "Ragnarök The Animation",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Samurai Deeper Kyou",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Stratos 4",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Stratos 4 OVA",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Stratos 4 Advance",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kaleido Star",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kaleido Star: Aratanaru Tsubasa - Extra Stage",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Fullmetal Alchemist: The Conqueror of Shamballa",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Howl no Ugoku Shiro",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 8
+	},
+	{
+		"title": "Kumo no Mukou, Yakusoku no Basho",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Phantom The Animation",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Onegai☆Teacher: Himitsu na Futari",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Maria-sama ga Miteru: Haru",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tales of Eternia The Animation",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Weiß Kreuz Glühen",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Tenjou Tenge: The Ultimate Fight",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "InuYasha Movie 4: Guren no Houraijima",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "InuYasha Movie 2: Kagami no Naka no Mugenjou",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "InuYasha Movie 3: Tenka Hadou no Ken",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "InuYasha Movie 1: Toki wo Koeru Omoi",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": ".hack//Gift",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Fantastic Children",
+		"hotEncodedGenres": [
+			0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Gokujou Seitokai",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Mushishi",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "One Piece Movie 01",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "One Piece Movie 02: Nejimaki-jima no Daibouken",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "One Piece Movie 04: Dead End no Bouken",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "One Piece Movie 05: Norowareta Seiken",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "One Piece Movie 07: Karakuri-jou no Mecha Kyohei",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Koukaku Kidoutai: Stand Alone Complex",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "Innocence",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Karin",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Okusama wa Joshikousei (TV)",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "To Heart 2",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Tide-Line Blue",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Hotori: Tada Saiwai wo Koinegau",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Ginban Kaleidoscope",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Aria the Animation",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Sousei no Aquarion",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ueki no Housoku",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Yu☆Gi☆Oh! Duel Monsters",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Yu☆Gi☆Oh! Duel Monsters GX",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kurau Phantom Memory",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Damekko Doubutsu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Kino no Tabi: The Beautiful World",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "Girls Bravo: Second Season",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Ichigo Mashimaro",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kamichu!",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Paniponi Dash!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Armitage III: Dual-Matrix",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Yami to Boushi to Hon no Tabibito",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Eien no Aselia",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Fushigiboshi no☆Futagohime",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Tottoko Hamtarou",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "I My Me! Strawberry Eggs",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kakyuusei 2: Hitomi no Naka no Shoujo-tachi",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Kidou Shinsengumi Moeyo Ken TV",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Cossette no Shouzou",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Keroro Gunsou",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "School Rumble: Ichi Gakki Hoshuu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Mahoraba: Heartful days",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Mermaid Melody Pichi Pichi Pitch",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Metropolis",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Onegai☆Twins: Natsu wa Owaranai",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Otogizoushi",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Saishuu Heiki Kanojo",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Sensei no Ojikan: Dokidoki School Hours",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Tenchi Muyou! Ryououki 3rd Season",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Vampire Hunter D (2000)",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Mousou Kagaku Series: Wandaba Style",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Wind: A Breath of Heart (TV)",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Wind: A Breath of Heart OVA",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Wonderful Days",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Grappler Baki: Saidai Tournament-hen",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Yami no Matsuei",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Koutetsu Tenshi Kurumi 2",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Koutetsu Tenshi Kurumi Zero",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Koutetsu Tenshi Kurumi Encore",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Major S2",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "RahXephon: Kansoukyoku/Kanojo to Kanojo Jishin to - Thatness and Thereness",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Soukyuu no Fafner: Dead Aggressor - Right of Left",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Sakura Taisen",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Sakura Taisen: Le Nouveau Paris",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Puni Puni☆Poemii",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Steamboy",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Jin-Rou",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Rean no Tsubasa",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Magikano",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kagi Hime Monogatari: Eikyuu Alice Rondo",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Battle Programmer Shirase",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kogepan",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Honoo no Labyrinth",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Noein: Mou Hitori no Kimi e",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ayakashi: Japanese Classic Horror",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Hanbun no Tsuki ga Noboru Sora",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Itsudatte My Santa!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Kage kara Mamoru!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Amaenaide yo!!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "PopoloCrois",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "X OVA",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Chobits: Chibits",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Neko no Ongaeshi",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Jinzou Ningen Kikaider The Animation",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Legend of Duo",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 4
+	},
+	{
+		"title": "Nekojiru-sou",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Futari wa Precure",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Kazemakase Tsukikage Ran",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Otogi Juushi Akazukin",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Sakura Taisen: Katsudou Shashin",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Saishuu Heiki Kanojo: Another Love Song",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Popotan",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Platonic Chain",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "PetoPeto-san",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Onmyou Taisenki",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Okusama wa Mahou Shoujo",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Nurse Witch Komugi-chan Magikarte",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Juubee Ninpuuchou: Ryuuhougyoku-hen",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Takahashi Rumiko Gekijou Ningyo no Mori",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Natsu-iro no Sunadokei",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Shichinin no Nana",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Mouse",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Moekan The Animation",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Major S1",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Mahoromatic Summer Special",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Mahoromatic End Year Special",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Koi Kaze",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Ichigo 100% Special 2",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Hachimitsu to Clover Specials",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Hikaru no Go: Hokuto Hai e no Michi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Harukanaru Toki no Naka de: Ajisai Yumegatari",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Hanaukyou Maid-tai: La Verite",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Green Green Thirteen: Erolutions",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Galaxy Angel Z",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Galaxy Angel 3",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Galaxy Angel 3 Specials",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Galaxy Angel 4",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Air in Summer",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Azumanga Daiou: Gekijou Tanpen",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Denshin Mamotte Shugogetten",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Fullmetal Alchemist: Reflections",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "JoJo no Kimyou na Bouken: Adventure",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Kashimashi: Girl Meets Girl",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Koi Koi 7",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Kujibiki Unbalance",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Lamune",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Lemon Angel Project",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Mai-HiME Specials",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "One: Kagayaku Kisetsu e",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Refrain Blue",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Tenbatsu Angel Rabbie☆",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Otogi Story Tenshi no Shippo",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Otogi Story Tenshi no Shippo Specials",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Tenshi no Shippo Chu!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "To Heart: Remember My Memories",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "To Heart: Remember My Memories Specials",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Tokyo Mew Mew",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Uta∽Kata",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Uta∽Kata: Shotou no Futanatsu",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Burn Up Scramble",
+		"hotEncodedGenres": [
+			1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Canvas 2: Nijiiro no Sketch",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Canvas: Sepia-iro no Motif",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Kanon Kazahana",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Chou Henshin Cosprayers vs. Ankoku Uchuu Shougun the Movie",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 4
+	},
+	{
+		"title": "Comic Party Revolution",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Comic Party Specials",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Patapata Hikousen no Bouken",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Mujin Wakusei Survive",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Rec",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Zoids Genesis",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Air Movie",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Princess Tutu",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Enzai",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 5
+	},
+	{
+		"title": "First Kiss Monogatari",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 4
+	},
+	{
+		"title": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 8
+	},
+	{
+		"title": "Kizuna: Koi no kara Sawagi",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "MÄR",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Sensitive Pornograph",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Papa to Kiss in the Dark",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Haru wo Daite Ita",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "True Love Story",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Nanami-chan",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 5
+	},
+	{
+		"title": "Binchou-tan",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Bomberman Jetters",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Chijoku Shinsatsushitsu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Yuki no Joou (TV)",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "School Days ONA",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Kaze wo Mita Shounen",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "RahXephon: Tagen Hensoukyoku",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tokyo Godfathers",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Tenjou Tenge: The Past Chapter",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Bleach: Memories in the Rain",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Zoids Shinseiki/Zero",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Chou Henshin Cosprayers Specials",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 4
+	},
+	{
+		"title": "Kishin Houkou Demonbane",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Pale Cocoon",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ginyuu Mokushiroku Meine Liebe Wieder",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Nanaka 6/17",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Hellsing Ultimate",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "Miami Guns",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Pugyuru",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Eiken: Eikenbu yori Ai wo Komete",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 4
+	},
+	{
+		"title": "Shinigami no Ballad.",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Ergo Proxy",
+		"hotEncodedGenres": [
+			0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "xxxHOLiC Movie: Manatsu no Yoru no Yume",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Hanaukyou Maid-tai OVA",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Yomigaeru Sora: Rescue Wings",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kokoro Toshokan",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "NieA Under 7",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+		"hotEncodedGenres": [
+			1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "Tsubasa Chronicle: Tori Kago no Kuni no Himegimi",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "I''s Pure",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Chikyuu Shoujo Arjuna",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Tennis no Oujisama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tennis no Oujisama Movie 1: Futari no Samurai - The First Game",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tactical Roar",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Boku wa Imouto ni Koi wo Suru",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Initial D Battle Stage",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Initial D Extra Stage",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Virgin Night",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Guardian Hearts",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "King of Fighters: Another Day",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Uba",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 5
+	},
+	{
+		"title": "Jinshin Yuugi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 5
+	},
+	{
+		"title": "Sexfriend",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Chicchana Yukitsukai Sugar",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Ginsoukikou Ordian",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Choujuushin Gravion",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Bleach: The Sealed Sword Frenzy",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Sister Princess: Re Pure",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Sister Princess",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kyou no 5 no 2",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 5
+	},
+	{
+		"title": "Narue no Sekai",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Konjiki no Gash Bell!!: 101 Banme no Mamono",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kiba",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "School Rumble Ni Gakki",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Jinki:Extend - Sorekara",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Suzumiya Haruhi no Yuuutsu",
+		"hotEncodedGenres": [
+			0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Gakuen Heaven",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Ouran Koukou Host Club",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Soul Link",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Strawberry Panic",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Utawarerumono",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Air Gear",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Gunparade Orchestra",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Digimon Savers",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Makai Senki Disgaea",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "xxxHOLiC",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Joshikousei: Girl's High",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kidou Senshi Gundam SEED MSV Astray",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Slayers Premium",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Mahou Shoujo-tai Arusu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": ".hack//Roots",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Digimon Tamers",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Mind Game",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Nana",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 8
+	},
+	{
+		"title": "Zegapain",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Simoun",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Aa! Megami-sama! Sorezore no Tsubasa",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Green Green OVA",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Shin Angyo Onshi",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Amaenaide yo!! Katsu!!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Megami Kouhosei Special Curriculum",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Megami Kouhosei",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Black Lagoon",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 8
+	},
+	{
+		"title": "Princess Princess",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Fullmetal Alchemist: Premium Collection",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Geneshaft",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Himawari!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kakutou Bijin Wulong",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Ginga Densetsu Weed",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tokkou",
+		"hotEncodedGenres": [
+			1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Gintama",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Ray The Animation",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Nurse Witch Komugi-chan Magikarte Special",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Nurse Witch Komugi-chan Magikarte Z",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Transformers Superlink",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Transformers Galaxy Force",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Ichigeki Sacchuu!! Hoihoi-san",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Dai Mahou Touge",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Higurashi no Naku Koro ni",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Witchblade",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Shin Getter Robo tai Neo Getter Robo",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Inukami!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Renkin San-kyuu Magical? Pokaan",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Nishi no Yoki Majo: Astraea Testament",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Yume Tsukai",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "The Third: Aoi Hitomi no Shoujo",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Street Fighter Alpha: Generations",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Magical Nyan Nyan Taruto",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Juu Ou Sei",
+		"hotEncodedGenres": [
+			1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Saiunkoku Monogatari",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Heat Guy J",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Shin Chou Kyou Ryo: Condor Hero",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Shin Chou Kyou Ryo: Condor Hero II",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Aria the Natural",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 8
+	},
+	{
+		"title": "Love Hina: Motoko no Sentaku, Koi ka Ken... \"Naku na\"",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Hit wo Nerae!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Yoshinaga-sanchi no Gargoyle",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Kakutou Bijin Wulong: Rebirth",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Tsubasa Chronicle 2nd Season",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Astro Boy: Tetsuwan Atom",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Bible Black Gaiden",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Glass no Kantai: La Legende du Vent de l'Univers",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Dead Leaves",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Rikujou Bouei-tai Mao-chan",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Ichigo 100% OVA",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Cosplay Complex",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Cosplay Complex: Extra Identification",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 5
+	},
+	{
+		"title": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kamisama Kazoku",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Usagi-chan de Cue!!",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Sin in the Rain",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 4
+	},
+	{
+		"title": "Tennis no Oujisama: Zenkoku Taikai-hen",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tide-Line Blue: Kyoudai",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Top wo Nerae 2! Diebuster",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Aa! Megami-sama! (TV) Specials",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kanojo to Kanojo no Neko",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Star Ocean EX",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Le Chevalier D'Eon",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Chicchana Yukitsukai Sugar Specials",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Honoo no Mirage",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Honoo no Mirage: Minagiwa no Hangyakusha",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Wolf's Rain OVA",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Arete Hime",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Hanare Toride no Yonna",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 4
+	},
+	{
+		"title": "Sennen Joyuu",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Patalliro Saiyuuki!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Saint Beast: Seijuu Kourin-hen",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Mizuiro",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 5
+	},
+	{
+		"title": "Mizuiro (2003)",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "The SoulTaker: Tamashii-gari",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Bobobo-bo Bo-bobo",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tokyo Daigaku Monogatari",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 4
+	},
+	{
+		"title": "Blame!",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Good Morning Call",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Kidou Shinsengumi Moeyo Ken",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Mazinkaiser",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Shakugan no Shana-tan",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kishin Houkou Demonbane (TV)",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Love Get Chu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Memories Off #5 Togireta Film The Animation",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Sweat Punch",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Netrun-mon the Movie",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Cardcaptor Sakura: Kero-chan ni Omakase!",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Sentou Yousei Yukikaze",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Hikari to Mizu no Daphne",
+		"hotEncodedGenres": [
+			0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Ningen Kousaten",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "I''s",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Interlude",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Kenran Butou Sai: The Mars Daybreak",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "One Piece: Umi no Heso no Daibouken-hen",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Lime-iro Senkitan",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Samurai Girl Real Bout High School",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Shadow Skill: Kurudaryuu Kousatsuhou no Himitsu",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Urda",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 4
+	},
+	{
+		"title": "Shinkon Gattai Godannar!!",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Shinkon Gattai Godannar!! 2nd Season",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Digital Juice",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 5
+	},
+	{
+		"title": "Monster Extra: Hottan",
+		"hotEncodedGenres": [
+			0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Mermaid Melody Pichi Pichi Pitch Pure",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Vandread: Gekitou-hen",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Vandread: Taidou-hen",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "One: Kagayaku Kisetsu e - True Stories",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Pokemon Movie 03: Kesshoutou no Teiou Entei",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Pokemon Movie 04: Celebi Toki wo Koeta Deai",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Pokemon Movie 06: Nanayo no Negaiboshi Jirachi",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Pokemon Movie 07: Rekkuu no Houmonsha Deoxys",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Bouken Ou Beet Excellion",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Seikai no Danshou: Tanjou",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Figure 17: Tsubasa & Hikaru",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "UFO Princess Valkyrie",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "UFO Princess Valkyrie: Shichiten Battou Hanayome Shuugyou",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Digimon Frontier",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Tenchi Muyou! GXP",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Munto: Toki no Kabe wo Koete",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Mushrambo",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Giniro no Kami no Agito",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Palme no Ki",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Hachimitsu to Clover II",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": ".hack//Intermezzo",
+		"hotEncodedGenres": [
+			0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Kaze no Youjinbou",
+		"hotEncodedGenres": [
+			1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Choujuushin Gravion Zwei",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "I: Wish You Were Here",
+		"hotEncodedGenres": [
+			1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Final Fantasy: Unlimited",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Mahou Senshi Louie",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Samurai Gun",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 5
+	},
+	{
+		"title": "Munto",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Alien 9",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Gakuen Senki Muryou",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tennis no Oujisama: Sonzoku Yama no Hi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kakurenbo",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Happy Seven: The TV Manga",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Coyote Ragtime Show",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Zero no Tsukaima",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Masuda Kousuke Gekijou Gag Manga Biyori",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tsuyokiss",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Gun-dou Musashi",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Nitaboh",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Aru Tabibito no Nikki",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 7
+	},
+	{
+		"title": "Nasu: Andalusia no Natsu",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "NHK ni Youkoso!",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 8
+	},
+	{
+		"title": "Oban Star-Racers",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Binbou Shimai Monogatari",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 6
+	},
+	{
+		"title": "Kidou Senshi Gundam SEED C.E. 73: Stargazer",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Tonagura!",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Chocotto Sister",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "Hoshizora Kiseki",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Demashita! Powerpuff Girls Z",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	},
+	{
+		"title": "Bokura ga Ita",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Ame to Shoujo to Watashi no Tegami",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.5,
+		"score": 5
+	},
+	{
+		"title": "Aquarian Age: Sign for Evolution",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Innocent Venus",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Hand Maid Mai",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Ichitaka no Mousou Nikki",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 6
+	},
+	{
+		"title": "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "One Piece: Mamore! Saigo no Dai Butai",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Night Head Genesis",
+		"hotEncodedGenres": [
+			0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Yuugo: Koushounin",
+		"hotEncodedGenres": [
+			1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Project BLUE Chikyuu SOS",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Zone of the Enders: 2167 Idolo",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Zone of the Enders: Dolores, I",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Erementar Gerad",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Saint Seiya: Meiou Hades Meikai-hen",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 8
+	},
+	{
+		"title": "Saint Seiya: Tenkai-hen Josou - Overture",
+		"hotEncodedGenres": [
+			1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "Suika",
+		"hotEncodedGenres": [
+			0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Aquarian Age: Saga II - Don't Forget Me...",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 5
+	},
+	{
+		"title": "Injuu Gakuen La☆Blue Girl: Fukkatsu-hen",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+		],
+		"ageRating": 1,
+		"score": 6
+	},
+	{
+		"title": "Gakkou no Kaidan",
+		"hotEncodedGenres": [
+			0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "WXIII Kidou Keisatsu Patlabor",
+		"hotEncodedGenres": [
+			0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 6
+	},
+	{
+		"title": "Afro Samurai",
+		"hotEncodedGenres": [
+			1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.8,
+		"score": 7
+	},
+	{
+		"title": "Flag",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 7
+	},
+	{
+		"title": "The Animatrix",
+		"hotEncodedGenres": [
+			1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.6,
+		"score": 7
+	},
+	{
+		"title": "Chobits Recap",
+		"hotEncodedGenres": [
+			0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.4,
+		"score": 6
+	},
+	{
+		"title": "Digimon Adventure 02",
+		"hotEncodedGenres": [
+			1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Idaten Jump",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 7
+	},
+	{
+		"title": "Eyeshield 21: Maboroshi no Golden Bowl",
+		"hotEncodedGenres": [
+			0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ageRating": 0.2,
+		"score": 6
+	}
+]
