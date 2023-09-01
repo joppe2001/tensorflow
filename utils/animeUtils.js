@@ -1,10 +1,10 @@
 export const findSimilarAnimes = (prediction, animeDataArray, animeName) => {
   // Set the weights for genre and age rating
-  const genreWeight = 1; // Feel free to change
+  const genreWeight = 2; // Feel free to change
   const ageWeight = 1; // Feel free to change,
   const scoreWeight = 1; // Feel free to change
-  const themeWeight = 10; // Feel free to change
-  const demographicWeight = 5; // Feel free to change
+  const themeWeight = 3; // Feel free to change
+  const demographicWeight = 4; // Feel free to change
 
   const dists = animeDataArray.map((anime) => {
     const features = [
