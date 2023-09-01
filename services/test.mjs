@@ -1,11 +1,27 @@
 import * as tf from '@tensorflow/tfjs-node';
 import fs from 'fs/promises';
 
+const normalizeTensor = (tensor) => {
+  const min = tensor.min();
+  const max = tensor.max();
+  return tensor.sub(min).div(max.sub(min));
+};
+
 const trainModel = async (animeData) => {
   console.log("Train model started");
 
+  // Feature extraction includes the new data points.
   const features = animeData.map(
-    (d) => tf.tensor([...d.hotEncodedGenres, d.ageRating, d.score])
+    (d) => tf.tensor([
+      ...d.hotEncodedGenres, 
+      d.ageRating, 
+      d.score, 
+      d.normalizedEpisodes, 
+      d.normalizedRank, 
+      d.normalizedPopularity,
+      ...d.hotEncodedThemes,
+      ...d.hotEncodedDemographics
+    ])
   );
 
   const model = tf.sequential();
@@ -51,5 +67,7 @@ const readFile = async () => {
   return JSON.parse(data);
 };
 
-const animeData = await readFile();
-await trainModel(animeData);
+(async () => {
+  const animeData = await readFile();
+  await trainModel(animeData);
+})();

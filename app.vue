@@ -32,21 +32,21 @@
 		"ova",
 	];
 
-	watch(
-		anime,
-		(newAnime) => {
-			const words = newAnime.split(" ");
-			const capitalizedWords = words.map((word, index) => {
-				if (index === 0 || !ignoreWords.includes(word.toLowerCase())) {
-					return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
-				} else {
-					return word.toLowerCase();
-				}
-			});
-			anime.value = capitalizedWords.join(" ");
-		},
-		{ immediate: true }
-	);
+	// watch(
+	// 	anime,
+	// 	(newAnime) => {
+	// 		const words = newAnime.split(" ");
+	// 		const capitalizedWords = words.map((word, index) => {
+	// 			if (index === 0 || !ignoreWords.includes(word.toLowerCase())) {
+	// 				return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+	// 			} else {
+	// 				return word.toLowerCase();
+	// 			}
+	// 		});
+	// 		anime.value = capitalizedWords.join(" ");
+	// 	},
+	// 	{ immediate: true }
+	// );
 
 	// onMounted(async () => {
 	// 	const response = await fetch("/hotEncodedAnime.json");

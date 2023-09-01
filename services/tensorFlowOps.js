@@ -5,13 +5,22 @@ export const trainModel = async (animeData) => {
   console.log('Train model started');
 
   const features = animeData.map((d) =>
-    tf.tensor([...d.hotEncodedGenres, d.ageRating, d.score])
+    tf.tensor([
+      ...d.hotEncodedGenres,
+      d.ageRating,
+      d.score,
+      d.normalizedEpisodes,
+      d.normalizedRank,
+      d.normalizedPopularity,
+      ...d.hotEncodedThemes,
+      ...d.hotEncodedDemographics
+    ])
   );
 
   const model = tf.sequential();
 
   model.add(
-    tf.layers.dense({ 
+    tf.layers.dense({
       units: 64,
       activation: 'relu',
       inputShape: [features[0].shape[0]]
@@ -67,12 +76,21 @@ export const getRecommendation = async (animeData, animeName) => {
   const chosenFeatures = tf.tensor([
     ...chosenAnime.hotEncodedGenres,
     chosenAnime.ageRating,
-    chosenAnime.score
+    chosenAnime.score,
+    chosenAnime.normalizedEpisodes,
+    chosenAnime.normalizedRank,
+    chosenAnime.normalizedPopularity,
+    ...chosenAnime.hotEncodedThemes,
+    ...chosenAnime.hotEncodedDemographics
   ]);
 
   const prediction = loadedModel.predict(chosenFeatures.reshape([1, -1]));
   const predictionArray = await prediction.array();
-  const similarAnimes = findSimilarAnimes(predictionArray[0], animeData);
+  const similarAnimes = findSimilarAnimes(
+    predictionArray[0],
+    animeData,
+    animeName
+  );
 
   console.log('Recommended Animes:', similarAnimes);
   return similarAnimes;

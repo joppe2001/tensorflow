@@ -1,15 +1,21 @@
-export const findSimilarAnimes = (prediction, animeDataArray) => {
+export const findSimilarAnimes = (prediction, animeDataArray, animeName) => {
   // Set the weights for genre and age rating
-  const genreWeight = 1;  // Feel free to change
-  const ageWeight = 1;     // Feel free to change,
-  const scoreWeight = 1;   // Feel free to change
-  
+  const genreWeight = 1; // Feel free to change
+  const ageWeight = 1; // Feel free to change,
+  const scoreWeight = 1; // Feel free to change
+  const themeWeight = 10; // Feel free to change
+  const demographicWeight = 5; // Feel free to change
+
   const dists = animeDataArray.map((anime) => {
     // Apply weights to the features
     const features = [
-      ...anime.hotEncodedGenres.map(genre => genre * genreWeight),
-      anime.ageRating / 10.0 * ageWeight,
-      anime.score / 10.0 * scoreWeight
+      ...anime.hotEncodedGenres.map((genre) => genre * genreWeight),
+      (anime.ageRating / 10.0) * ageWeight,
+      (anime.score / 10.0) * scoreWeight,
+      ...anime.hotEncodedThemes.map((theme) => theme * themeWeight),
+      ...anime.hotEncodedDemographics.map(
+        (demographic) => demographic * demographicWeight
+      ),
     ];
 
     let sum = 0;
@@ -19,7 +25,19 @@ export const findSimilarAnimes = (prediction, animeDataArray) => {
 
     return Math.sqrt(sum);
   });
+  const sortedIndices = dists
+    .map((val, index) => index)
+    .sort((a, b) => dists[a] - dists[b]);
+    
+  const filteredIndices = sortedIndices.filter(
+    (index) => animeDataArray[index].title !== animeName
+  );
 
-  const sortedIndices = dists.map((val, index) => index).sort((a, b) => dists[a] - dists[b]);
-  return sortedIndices.slice(0, 5).map((index) => [animeDataArray[index].title, `score: ${animeDataArray[index].score}`]);  // Changed from top 20 to top 5
+  return filteredIndices
+    .slice(0, 5)
+    .map((index) => [
+      animeDataArray[index].title,
+      `score: ${animeDataArray[index].score}`,
+      `rank: ${animeDataArray[index].normalizedRank}`,
+    ]); // Changed from top 20 to top 5
 };
