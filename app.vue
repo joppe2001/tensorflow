@@ -48,13 +48,13 @@
 		{ immediate: true }
 	);
 
-	onMounted(async () => {
-		const response = await fetch("/hotEncodedAnime.json");
-		const animeData = await response.json();
-		loading.value = true;
-		await trainModel(animeData);
-		loading.value = false;
-	});
+	// onMounted(async () => {
+	// 	const response = await fetch("/hotEncodedAnime.json");
+	// 	const animeData = await response.json();
+	// 	loading.value = true;
+	// 	await trainModel(animeData);
+	// 	loading.value = false;
+	// });
 
 	const getRecommended = async () => {
 		if (loading.value) {
