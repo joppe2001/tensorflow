@@ -19,7 +19,7 @@ const trainModel = async (animeData) => {
       d.normalizedRank, 
       d.normalizedPopularity,
       ...d.hotEncodedThemes,
-      ...d.hotEncodedDemographics
+      ...d.hotEncodedDemographics,
     ])
   );
 
