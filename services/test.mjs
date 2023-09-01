@@ -31,8 +31,8 @@ const trainModel = async (animeData) => {
   const yTrain = tf.stack(features);
 
   const history = await model.fit(xTrain, yTrain, {
-    epochs: 1200,
-    batchSize: 1500,
+    epochs: 50,
+    batchSize: 100,
   });
 
   console.log("Training complete");
