@@ -11,7 +11,7 @@ export const trainModel = async (animeData) => {
   const model = tf.sequential();
 
   model.add(
-    tf.layers.dense({
+    tf.layers.dense({ 
       units: 64,
       activation: 'relu',
       inputShape: [features[0].shape[0]]

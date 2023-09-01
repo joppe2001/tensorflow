@@ -78,4 +78,4 @@ const getAnime = async (startId, endId) => {
   console.log('Data processing complete. Check out your hotEncodedAnime.json!');
 };
 
-getAnime(2318, 40000);  // Change the range as per your requirement
+getAnime(4018, 40000);  // Change the range as per your requirement
