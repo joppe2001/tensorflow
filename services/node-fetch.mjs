@@ -181,4 +181,4 @@ const getAnime = async (startId, endId) => {
   console.log('Data processing complete. Check out your hotEncodedAnime.json!');
 };
 
-getAnime(1, 10000);
+getAnime(2300, 10000);
