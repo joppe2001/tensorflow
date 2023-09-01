@@ -1,9 +1,9 @@
 export const findSimilarAnimes = (prediction, animeDataArray, animeName) => {
   // Set the weights for genre and age rating
-  const genreWeight = 3; // Feel free to change
-  const ageWeight = 2; // Feel free to change,
+  const genreWeight = 1; // Feel free to change
+  const ageWeight = 1; // Feel free to change,
   const scoreWeight = 1; // Feel free to change
-  const themeWeight = 8; // Feel free to change
+  const themeWeight = 10; // Feel free to change
   const demographicWeight = 5; // Feel free to change
 
   const dists = animeDataArray.map((anime) => {
@@ -25,7 +25,7 @@ export const findSimilarAnimes = (prediction, animeDataArray, animeName) => {
     return Math.sqrt(sum);
   });
   const sortedIndices = dists
-    .map((val, index) => index)
+    .map((_, index) => index)
     .sort((a, b) => dists[a] - dists[b]);
     
   const filteredIndices = sortedIndices.filter(

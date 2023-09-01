@@ -10,7 +10,6 @@ const normalizeTensor = (tensor) => {
 const trainModel = async (animeData) => {
   console.log("Train model started");
 
-  // Feature extraction includes the new data points.
   const features = animeData.map(
     (d) => tf.tensor([
       ...d.hotEncodedGenres, 
@@ -52,6 +51,7 @@ const trainModel = async (animeData) => {
   });
 
   console.log("Training complete");
+  console.log(history)
   console.log("Epochs:", history.epoch[history.epoch.length - 1]);
   console.log(
     "Last Loss Value:",
