@@ -1,10 +1,9 @@
 export const findSimilarAnimes = (prediction, animeDataArray, animeName) => {
-  // Set the weights for genre and age rating
-  const genreWeight = 2; // Feel free to change
-  const ageWeight = 1; // Feel free to change,
+  const genreWeight = 2; 
+  const ageWeight = 1; 
   const scoreWeight = 1; // Feel free to change
-  const themeWeight = 3; // Feel free to change
-  const demographicWeight = 4; // Feel free to change
+  const themeWeight = 3; 
+  const demographicWeight = 4;
 
   const dists = animeDataArray.map((anime) => {
     const features = [
@@ -38,5 +37,5 @@ export const findSimilarAnimes = (prediction, animeDataArray, animeName) => {
       animeDataArray[index].title,
       `score: ${animeDataArray[index].score}`,
       `rank: ${animeDataArray[index].normalizedRank}`,
-    ]); // Changed from top 20 to top 5
+    ]);
 };

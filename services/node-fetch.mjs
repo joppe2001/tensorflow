@@ -17,7 +17,6 @@ let uniqueGenres = [];
 let uniquethemes = [];
 let uniqueDemographics = [];
 
-// Assuming you have these min and max values for episodes, rank, and popularity
 const minEpisodes = 0;
 const maxEpisodes = 2000;
 const minRank = 0;
@@ -82,7 +81,7 @@ const getAnime = async (startId, endId) => {
   try {
     const existingData = JSON.parse(
       readFileSync('./hotEncodedAnime.json', 'utf8')
-    ); //
+    );
     anime = existingData;
   } catch (error) {
     console.log('No existing data found, starting fresh.');
@@ -181,4 +180,4 @@ const getAnime = async (startId, endId) => {
   console.log('Data processing complete. Check out your hotEncodedAnime.json!');
 };
 
-getAnime(2300, 10000);
+getAnime(50000, 80000);
