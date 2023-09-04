@@ -1,7 +1,7 @@
 export const findSimilarAnimes = (prediction, animeDataArray, animeName) => {
   const genreWeight = 2; 
   const ageWeight = 1; 
-  const scoreWeight = 1; // Feel free to change
+  const scoreWeight = 1;
   const themeWeight = 3; 
   const demographicWeight = 4;
 
