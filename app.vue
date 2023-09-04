@@ -133,7 +133,7 @@ const closeSuggestions = () => {
 function clickedInsideSuggestions(event) {
 	let targetElement = event.target;
 	while (targetElement != null) {
-		if (targetElement === suggestionsContainer.value || ) return true;
+		if (targetElement === suggestionsContainer.value || anime.value) return true;
 		targetElement = targetElement.parentElement;
 	}
 	return false;
