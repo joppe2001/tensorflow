@@ -124,12 +124,10 @@ const scrollHighlightedIntoView = () => {
 	}
 };
 
-// Method to close the suggestions dropdown
 const closeSuggestions = () => {
 	suggestions.value = [];
 };
 
-// Check if the clicked element or its parent is the suggestionsContainer
 function clickedInsideSuggestions(event) {
 	let targetElement = event.target;
 	while (targetElement != null) {
@@ -139,19 +137,16 @@ function clickedInsideSuggestions(event) {
 	return false;
 }
 
-// Event handler to check where the click occurred
 function handleDocumentClick(event) {
 	if (!clickedInsideSuggestions(event)) {
 		closeSuggestions();
 	}
 }
 
-// Add the click event listener to the document
 onMounted(() => {
 	document.addEventListener('click', handleDocumentClick);
 });
 
-// Clean up - remove the event listener when the component is destroyed
 onBeforeUnmount(() => {
 	document.removeEventListener('click', handleDocumentClick);
 });
