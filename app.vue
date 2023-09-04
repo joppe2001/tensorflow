@@ -112,7 +112,7 @@ watch(anime, async (newVal) => {
 			const animeData = await response.json();
 
 			// Filter animeData to get titles that include the newVal
-			suggestions.value = animeData.filter(animeObj => animeObj.title.includes(newVal)).map(animeObj => animeObj.title).slice(0, 5); // display top 5 matches
+			suggestions.value = animeData.filter(animeObj => animeObj.title.includes(newVal)).map(animeObj => animeObj.title).slice(0, 10); // display top 5 matches
 		} else {
 			suggestions.value = []; // clear suggestions if input is empty
 		}
@@ -261,7 +261,7 @@ p {
 	border: 1px solid #e0e0e0;
 	border-radius: 4px;
 	box-shadow: 0 2px 5px #0000001a;
-	max-height: 150px;
+	max-height: 200px;
 	overflow-y: auto;
 	position: absolute;
 	top: 100px;
