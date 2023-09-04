@@ -35,7 +35,6 @@
   
 <script setup>
 import { getRecommendation } from "./services/tensorFlowOps.js";
-import { ref } from 'vue';
 
 const anime = ref("");
 const recommended = ref([]);
@@ -104,6 +103,7 @@ async function getRecommended() {
 		console.error("Training failed", error);
 	}
 }
+
 const scrollHighlightedIntoView = () => {
 	const container = suggestionsContainer.value;
 	if (!container) return;
@@ -118,18 +118,47 @@ const scrollHighlightedIntoView = () => {
 	const itemBottom = itemTop + currentItem.clientHeight;
 
 	if (itemTop < containerTop) {
-		// Item is above the view, scroll up
 		container.scrollTop = itemTop;
 	} else if (itemBottom > containerBottom) {
-		// Item is below the view, scroll down
 		container.scrollTop = itemBottom - container.clientHeight;
 	}
 };
 
-  // Add remaining helper functions like scrollHighlightedIntoView() here...
+// Method to close the suggestions dropdown
+const closeSuggestions = () => {
+	suggestions.value = [];
+};
+
+// Check if the clicked element or its parent is the suggestionsContainer
+function clickedInsideSuggestions(event) {
+	let targetElement = event.target;
+	while (targetElement != null) {
+		if (targetElement === suggestionsContainer.value || ) return true;
+		targetElement = targetElement.parentElement;
+	}
+	return false;
+}
+
+// Event handler to check where the click occurred
+function handleDocumentClick(event) {
+	if (!clickedInsideSuggestions(event)) {
+		closeSuggestions();
+	}
+}
+
+// Add the click event listener to the document
+onMounted(() => {
+	document.addEventListener('click', handleDocumentClick);
+});
+
+// Clean up - remove the event listener when the component is destroyed
+onBeforeUnmount(() => {
+	document.removeEventListener('click', handleDocumentClick);
+});
+
 </script>
-  
-  <!-- Styles have been kept largely the same, with redundant or repeated rules removed -->
+
+
 <style>
 body {
 	background-color: #f4f4f4;
