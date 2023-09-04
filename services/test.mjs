@@ -34,6 +34,8 @@ const genreList = [
 const oneHotEncodeGenre = (genreStr) =>
 	genreList.map((genre) => (genreStr.includes(genre) ? 1 : 0));
 
+	console.log(tensors);
+
 const splitData = (data, trainSize, valSize) => {
 	const shuffled = tf.util.shuffle(data);
 	const trainEnd = Math.floor(trainSize * shuffled.length);
