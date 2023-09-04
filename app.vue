@@ -264,7 +264,7 @@ p {
 	max-height: 150px;
 	overflow-y: auto;
 	position: absolute;
-	top: 40%;
+	top: 100px;
 	right: 0;
 	width: 100%;
 }
