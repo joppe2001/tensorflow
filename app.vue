@@ -46,26 +46,33 @@ const suggestionsContainer = ref(null);
 watch(anime, fetchAndSetSuggestions);
 
 async function fetchAnimeData() {
-	const response = await fetch("/hotEncodedAnime.json");
+	const response = await fetch("/csvjson.json");
 	return response.json();
 }
 
 async function fetchAndSetSuggestions(newVal) {
-	anime.value = newVal.charAt(0).toUpperCase() + newVal.slice(1);
-	if (newVal) {
-		try {
-			const animeData = await fetchAnimeData();
-			suggestions.value = animeData
-				.filter(animeObj => animeObj.title.includes(newVal))
-				.map(animeObj => animeObj.title)
-				.slice(0, 10);
-		} catch (error) {
-			console.error("Error fetching and processing data:", error);
-		}
-	} else {
-		suggestions.value = [];
-	}
+  const normalizedNewVal = newVal
+  anime.value = normalizedNewVal.charAt(0).toUpperCase() + normalizedNewVal.slice(1);
+
+  try {
+    const animeData = await fetchAnimeData();
+    const filteredAnime = animeData.filter(animeObj =>
+      typeof animeObj.title_english === 'string' &&
+      (animeObj.title_english.toLowerCase().includes(normalizedNewVal) || animeObj.title_english.includes(newVal))
+    );
+
+    if (normalizedNewVal) {
+      suggestions.value = filteredAnime
+        .slice(0, 10)
+        .map(animeObj => animeObj.title_english);
+    } else {
+      suggestions.value = [];
+    }
+  } catch (error) {
+    console.error("Error fetching and processing data:", error);
+  }
 }
+
 
 const navigateSuggestions = (event) => {
 	switch (event.key) {
@@ -97,6 +104,7 @@ async function getRecommended() {
 	}
 	try {
 		const animeData = await fetchAnimeData();
+		console.log(animeData);
 		const recommendation = await getRecommendation(animeData, anime.value);
 		recommended.value = recommendation;
 	} catch (error) {
