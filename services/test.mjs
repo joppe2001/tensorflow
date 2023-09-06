@@ -8,14 +8,13 @@ const trainModel = async (xTrain, yTrain, xVal, yVal) => {
 
   model.add(
     tf.layers.dense({
-      units: 1280,  // increased units
+      units: 256,  // increased units
       activation: "relu",
       inputShape: [xTrain.shape[1]],
     })
   );
 
   model.add(tf.layers.dropout(0.2));  // dropout layer to prevent overfitting
-  model.add(tf.layers.dense({ units: 64, activation: "relu" }));  // increased units
   model.add(tf.layers.dropout(0.2));  // dropout layer
 
   model.add(
@@ -24,16 +23,15 @@ const trainModel = async (xTrain, yTrain, xVal, yVal) => {
 
   console.log("Compiling the model...");
   model.compile({
-    optimizer: tf.train.adam(0.0002),
+    optimizer: tf.train.adam(0.0001),
     loss: "meanSquaredError",
   });
 
   console.log("Training the model...");
   const history = await model.fit(xTrain, yTrain, {
-    epochs: 100,   // increased epochs
-    batchSize: 356,  // changed batch size
+    epochs: 50,   // increased epochs
+    batchSize: 10,  // changed batch size
     validationData: [xVal, yVal],
-    shuffle: true,
   });
 
   console.log("Training complete!");
