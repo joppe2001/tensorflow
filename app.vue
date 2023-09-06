@@ -51,21 +51,41 @@ async function fetchAnimeData() {
 }
 
 async function fetchAndSetSuggestions(newVal) {
-	anime.value = newVal.charAt(0).toUpperCase() + newVal.slice(1);
-	if (newVal) {
-		try {
-			const animeData = await fetchAnimeData();
-			suggestions.value = animeData
-				.filter(animeObj => animeObj.title.includes(newVal))
-				.map(animeObj => animeObj.title)
-				.slice(0, 10);
-		} catch (error) {
-			console.error("Error fetching and processing data:", error);
-		}
-	} else {
-		suggestions.value = [];
-	}
+    const normalizedNewVal = newVal.charAt(0).toUpperCase() + newVal.slice(1);
+    anime.value = normalizedNewVal;
+
+    try {
+        const animeData = await fetchAnimeData();
+        const filteredAnime = animeData.filter(animeObj => {
+            const titleToCheck = animeObj.title_english !== "" ? animeObj.title_english : animeObj.title;
+            return typeof titleToCheck === 'string' &&
+                (titleToCheck.toLowerCase().includes(normalizedNewVal.toLowerCase()) || titleToCheck.includes(newVal));
+        });
+
+        // Sort to prioritize exact matches
+        filteredAnime.sort((a, b) => {
+            const titleA = a.title_english || a.title;
+            const titleB = b.title_english || b.title;
+
+            if (titleA.toLowerCase() === normalizedNewVal.toLowerCase()) return -1;
+            if (titleB.toLowerCase() === normalizedNewVal.toLowerCase()) return 1;
+
+            return 0;
+        });
+
+        if (normalizedNewVal) {
+            suggestions.value = filteredAnime
+                .slice(0, 10)
+                .map(animeObj => animeObj.title_english || animeObj.title)
+                .filter(Boolean);  // This will filter out any empty string titles.
+        } else {
+            suggestions.value = [];
+        }
+    } catch (error) {
+        console.error("Error fetching and processing data:", error);
+    }
 }
+
 
 const navigateSuggestions = (event) => {
 	switch (event.key) {

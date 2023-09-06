@@ -8,7 +8,9 @@ export const getRecommendation = async (animeData, animeName) => {
     loadedModel.inputs[0].shape
   );
 
-  const chosenAnime = animeData.find((anime) => anime.title === animeName);
+  console.log(animeData);
+
+  const chosenAnime = animeData.find((anime) => (anime.title_english || anime.title) === animeName);
   if (!chosenAnime) {
     console.error(`Anime "${animeName}" not found in data.`);
     return [];
@@ -21,17 +23,17 @@ export const getRecommendation = async (animeData, animeName) => {
     chosenAnime.normalizedEpisodes,
     chosenAnime.normalizedRank,
     chosenAnime.normalizedPopularity,
-    ...chosenAnime.hotEncodedThemes,
-    ...chosenAnime.hotEncodedDemographics
   ]);
 
   const prediction = loadedModel.predict(chosenFeatures.reshape([1, -1]));
   const predictionArray = await prediction.array();
+  const invertedPredictionArray = predictionArray[0].map(score => 1 - score);  // Assuming scores are between 0 and 1
   const similarAnimes = findSimilarAnimes(
-    predictionArray[0],
+    invertedPredictionArray,
     animeData,
     animeName
   );
+  
 
   console.log('Recommended Animes:', similarAnimes);
   return similarAnimes;

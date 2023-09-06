@@ -1,19 +1,13 @@
 export const findSimilarAnimes = (prediction, animeDataArray, animeName) => {
-  const genreWeight = 2; 
-  const ageWeight = 1; 
-  const scoreWeight = 1;
-  const themeWeight = 3; 
-  const demographicWeight = 4;
 
   const dists = animeDataArray.map((anime) => {
     const features = [
-      ...anime.hotEncodedGenres.map((genre) => genre * genreWeight),
-      (anime.ageRating / 10.0) * ageWeight,
-      (anime.score / 10.0) * scoreWeight,
-      ...anime.hotEncodedThemes.map((theme) => theme * themeWeight),
-      ...anime.hotEncodedDemographics.map(
-        (demographic) => demographic * demographicWeight
-      ),
+      ...anime.hotEncodedGenres,
+      anime.ageRating,
+      anime.score,
+      anime.normalizedEpisodes,
+      anime.normalizedRank,
+      anime.normalizedPopularity
     ];
 
     let sum = 0;
@@ -23,19 +17,21 @@ export const findSimilarAnimes = (prediction, animeDataArray, animeName) => {
 
     return Math.sqrt(sum);
   });
+
   const sortedIndices = dists
     .map((_, index) => index)
-    .sort((a, b) => dists[a] - dists[b]);
-    
+    .sort((a, b) => dists[b] - dists[a]);
+
   const filteredIndices = sortedIndices.filter(
-    (index) => animeDataArray[index].title !== animeName
+    (index) => animeDataArray[index].title_english !== animeName
   );
 
   return filteredIndices
     .slice(0, 5)
     .map((index) => [
-      animeDataArray[index].title,
-      `score: ${animeDataArray[index].score}`,
-      `rank: ${animeDataArray[index].normalizedRank}`,
+      animeDataArray[index].title_english || animeDataArray[index].title,
+      `score: ${(animeDataArray[index].score * 10).toFixed(2)}%`,
+      `rank: ${animeDataArray[index].normalizedRank.toFixed(2)}`,
+      `popularity: ${animeDataArray[index].normalizedPopularity.toFixed(2)}`
     ]);
 };

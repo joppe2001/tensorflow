@@ -43,8 +43,7 @@ const processedAnimeList = animeList.map(d => {
         normalizedEpisodes: normalize(d.episodes, episodesMin, episodesMax),
         normalizedRank: normalize(d.rank, rankMin, rankMax),
         normalizedPopularity: normalize(d.popularity, popularityMin, popularityMax),
-        // Convert age rating using the provided mapping.
-        ageRating: ageRatingMapping[d.ageRating] || 0  // defaulting to 0 if not found in mapping
+        ageRating: ageRatingMapping[d.ageRating] || 0 
     };
 });
 
