@@ -7,7 +7,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
-  }, 
+  },
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@pinia/nuxt": "^0.4.11",
@@ -15,9 +15,9 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "^4.10.0",
-
     "cli-progress": "^3.12.0",
     "fs": "^0.0.1-security",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "sass": "^1.66.1"
   }
 }
