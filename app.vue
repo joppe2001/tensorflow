@@ -3,7 +3,7 @@
 		<div class="container">
 			<form @submit.prevent="getRecommended">
 				<div class="input-container">
-					<label for="anime">Anime</label>
+					<label for="anime">Anime recommender</label>
 					<input type="text" id="anime" name="anime" v-model="anime" placeholder="Enter your favorite anime"
 						@keydown="navigateSuggestions" />
 				</div>
@@ -20,11 +20,13 @@
 				<p v-if="loading">Training model, please wait...</p>
 				<div v-if="recommended && !loading" class="recommendation-container">
 					<h2>Recommended:</h2>
-					<ul>
-						<li v-for="show in recommended" :key="show[0]">
-							<strong class="title">{{ show[0] }}</strong>
-							<span class="score">{{ show[1] }}</span>
-							<span class="rank">{{ show[2] }}</span>
+					<ul v-for="(show, index) in recommended" :key="show[index]">
+						<li class="recommendation-container__small">
+							<h2 class="title">{{ show[0] }}</h2>
+							<div class="score-rank">
+								<p>{{ show[1] }}</p>
+								<p>{{ show[2] }}</p>
+							</div>
 						</li>
 					</ul>
 				</div>
@@ -51,39 +53,39 @@ async function fetchAnimeData() {
 }
 
 async function fetchAndSetSuggestions(newVal) {
-    const normalizedNewVal = newVal.charAt(0).toUpperCase() + newVal.slice(1);
-    anime.value = normalizedNewVal;
+	const normalizedNewVal = newVal.charAt(0).toUpperCase() + newVal.slice(1);
+	anime.value = normalizedNewVal;
 
-    try {
-        const animeData = await fetchAnimeData();
-        const filteredAnime = animeData.filter(animeObj => {
-            const titleToCheck = animeObj.title_english !== "" ? animeObj.title_english : animeObj.title;
-            return typeof titleToCheck === 'string' &&
-                (titleToCheck.toLowerCase().includes(normalizedNewVal.toLowerCase()) || titleToCheck.includes(newVal));
-        });
+	try {
+		const animeData = await fetchAnimeData();
+		const filteredAnime = animeData.filter(animeObj => {
+			const titleToCheck = animeObj.title_english !== "" ? animeObj.title_english : animeObj.title;
+			return typeof titleToCheck === 'string' &&
+				(titleToCheck.toLowerCase().includes(normalizedNewVal.toLowerCase()) || titleToCheck.includes(newVal));
+		});
 
-        // Sort to prioritize exact matches
-        filteredAnime.sort((a, b) => {
-            const titleA = a.title_english || a.title;
-            const titleB = b.title_english || b.title;
+		// Sort to prioritize exact matches
+		filteredAnime.sort((a, b) => {
+			const titleA = a.title_english || a.title;
+			const titleB = b.title_english || b.title;
 
-            if (titleA.toLowerCase() === normalizedNewVal.toLowerCase()) return -1;
-            if (titleB.toLowerCase() === normalizedNewVal.toLowerCase()) return 1;
+			if (titleA.toLowerCase() === normalizedNewVal.toLowerCase()) return -1;
+			if (titleB.toLowerCase() === normalizedNewVal.toLowerCase()) return 1;
 
-            return 0;
-        });
+			return 0;
+		});
 
-        if (normalizedNewVal) {
-            suggestions.value = filteredAnime
-                .slice(0, 10)
-                .map(animeObj => animeObj.title_english || animeObj.title)
-                .filter(Boolean);  // This will filter out any empty string titles.
-        } else {
-            suggestions.value = [];
-        }
-    } catch (error) {
-        console.error("Error fetching and processing data:", error);
-    }
+		if (normalizedNewVal) {
+			suggestions.value = filteredAnime
+				.slice(0, 10)
+				.map(animeObj => animeObj.title_english || animeObj.title)
+				.filter(Boolean);  // This will filter out any empty string titles.
+		} else {
+			suggestions.value = [];
+		}
+	} catch (error) {
+		console.error("Error fetching and processing data:", error);
+	}
 }
 
 
@@ -174,136 +176,166 @@ onBeforeUnmount(() => {
 </script>
 
 
-<style>
+<style lang="scss">
 body {
 	background-color: #f4f4f4;
 	color: #333;
 	font-family: Roboto, sans-serif;
+
+	.container {
+		form {
+			background-color: #fff;
+			border-radius: 8px;
+			box-shadow: 0 2px 5px #0000001a;
+			display: flex;
+			flex-direction: column;
+			margin: 50px auto;
+			max-width: 500px;
+			padding: 20px;
+			position: relative;
+
+			.input-container {
+				display: flex;
+				flex-direction: column;
+				gap: 10px;
+
+				label {
+					font-weight: 500;
+					margin-bottom: 10px;
+				}
+
+				input {
+					border: 0.5px solid #e0e0e0;
+					border-radius: 4px;
+					font-size: 14px;
+					padding: 10px 15px;
+					margin-bottom: 15px;
+				}
+			}
+
+			.suggestions {
+				border: 1px solid #e0e0e0;
+				border-radius: 4px;
+				box-shadow: 0 2px 5px #0000001a;
+				max-height: 200px;
+				overflow-y: auto;
+				position: absolute;
+				top: 100px;
+				right: 0;
+				width: 100%;
+
+				ul {
+					list-style-type: none;
+					margin: 0;
+					padding: 0;
+
+					li {
+						background-color: #fff;
+						cursor: pointer;
+						padding: 10px;
+
+						&hover {
+							background-color: #f0f0f0;
+						}
+
+						&.highlighted {
+							background-color: #e0e0e0;
+						}
+					}
+				}
+			}
+
+			button {
+				background-color: #007bff;
+				border: none;
+				border-radius: 4px;
+				color: #fff;
+				cursor: pointer;
+				padding: 10px 15px;
+				transition: background-color .3s;
+
+				&:hover {
+					background-color: red;
+				}
+
+				&:disabled {
+					background-color: #e0e0e0;
+					cursor: not-allowed;
+				}
+			}
+
+			.recommendation-container {
+
+				p,
+				ul {
+					margin-top: 15px;
+				}
+
+				ul {
+					border: 1px solid #e0e0e0;
+					list-style-type: none;
+					padding: 0 25px;
+					border-radius: 10px;
+
+					li {
+						border-bottom: 1px solid #e0e0e0;
+						display: flex;
+						justify-content: space-between;
+						align-items: center;
+						padding: 10px 0;
+
+						.title {
+							flex-basis: 60%;
+							font-size: 1.2rem;
+						}
+
+						&:last-child {
+							border-bottom: none;
+						}
+
+						.score-rank {
+							text-align: center;
+							text-decoration: underline;
+						}
+					}
+				}
+			}
+		}
+	}
 }
 
-.container form {
-	background-color: #fff;
-	border-radius: 8px;
-	box-shadow: 0 2px 5px #0000001a;
-	display: flex;
-	flex-direction: column;
-	margin: 50px auto;
-	max-width: 400px;
-	padding: 20px;
-	position: relative;
-}
-
-.input-container {
-	display: flex;
-	flex-direction: column;
-	gap: 10px;
-}
-
-.input-container label {
-	font-weight: 500;
-	margin-bottom: 10px;
-}
-
-.input-container input {
-	border: 1px solid #e0e0e0;
-	border-radius: 4px;
-	font-size: 14px;
-	padding: 10px 15px;
-	margin-bottom: 15px;
-}
-
-button {
-	background-color: #007bff;
-	border: none;
-	border-radius: 4px;
-	color: #fff;
-	cursor: pointer;
-	padding: 10px 15px;
-	transition: background-color .3s;
-}
-
-button:hover {
-	background-color: #0056b3;
-}
-
-button:disabled {
-	background-color: #e0e0e0;
-	cursor: not-allowed;
-}
-
-p,
-.recommendation-container ul {
-	margin-top: 15px;
-}
-
-.recommendation-container ul {
-	border-top: 1px solid #e0e0e0;
-	list-style-type: none;
-	padding: 0;
-}
-
-.recommendation-container li {
-	border-bottom: 1px solid #e0e0e0;
-	display: flex;
-	justify-content: space-between;
-	padding: 10px 0;
-}
-
-.recommendation-container li:last-child {
-	border-bottom: none;
-}
-
-.title {
-	flex-basis: 60%;
-	font-weight: 600;
-}
-
-.score,
-.rank {
-	flex-basis: 20%;
-	text-align: right;
-}
 
 @media (max-width: 600px) {
+	body {
+		font-size: smaller;
+	}
+
 	.container form {
-		margin: 20px auto;
+		margin: 20px 10px;
 	}
 
-	.recommendation-container h2 {
-		font-size: 18px;
+	.recommendation-container {
+		h2 {
+			font-size: 18px;
+		}
+
+		ul {
+			padding: 15px;
+		}
+
+		&__small {
+			display: flex;
+			justify-content: center;
+			text-align: center;
+			flex-direction: column;
+
+			.score-rank {
+				font-size: 1.0rem;
+			}
+		}
 	}
-}
 
-.suggestions {
-	border: 1px solid #e0e0e0;
-	border-radius: 4px;
-	box-shadow: 0 2px 5px #0000001a;
-	max-height: 200px;
-	overflow-y: auto;
-	position: absolute;
-	top: 100px;
-	right: 0;
-	width: 100%;
-}
 
-.suggestions ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-.suggestions li {
-	background-color: #fff;
-	cursor: pointer;
-	padding: 10px;
-}
-
-.suggestions li:hover {
-	background-color: #f0f0f0;
-}
-
-.suggestions li.highlighted {
-	background-color: #e0e0e0;
 }
 </style>
   

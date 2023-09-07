@@ -8,7 +8,6 @@ export const getRecommendation = async (animeData, animeName) => {
     loadedModel.inputs[0].shape
   );
 
-  console.log(animeData);
 
   const chosenAnime = animeData.find((anime) => (anime.title_english || anime.title) === animeName);
   if (!chosenAnime) {
@@ -34,7 +33,5 @@ export const getRecommendation = async (animeData, animeName) => {
     animeName
   );
   
-
-  console.log('Recommended Animes:', similarAnimes);
   return similarAnimes;
 };
